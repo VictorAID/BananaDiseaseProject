@@ -1,0 +1,3 @@
+Run the streamlit app using this code
+
+streamlit run app2.py
